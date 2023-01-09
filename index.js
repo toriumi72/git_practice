@@ -1,2 +1,2 @@
 const test = "test"
-const change = "変更"
+const delate = "消去"
